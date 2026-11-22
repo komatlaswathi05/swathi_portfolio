@@ -11,13 +11,13 @@ const PROFILE = {
   role: "Software Engineer",
   location: "India",
   email: "komatlaswathi05@gmail.com",
-  linkedin: "",
-  github: "",
+  linkedin: "https://www.linkedin.com/in/komatlaswathi",
+  github: "https://github.com/komatlaswathi05",
 };
 
 const skills = [
-  { title: "Programming", items: ["Core Java", "OOPs", "Java 8", "Java 17", "JavaScript"] },
-  { title: "Backend", items: ["Spring Boot", "Microservices", "REST APIs", "Node.js", "NestJS"] },
+  { title: "Programming", items: ["Core Java", "OOPs", "Java 8", "Java 17", "JavaScript", "Nodejs", "Python"] },
+  { title: "Backend", items: ["Spring Boot", "Microservices", "REST APIs", "Node.js", "NestJS", "Django", "Flask"] },
   { title: "Persistence", items: ["Spring Data JPA", "Hibernate", "SQL", "MySQL", "PostgreSQL"] },
   { title: "Tools & Testing", items: ["Git", "GitHub", "Postman", "VS Code", "Eclipse", "Unit Testing"] },
   { title: "Frontend Basics", items: ["HTML", "CSS", "JavaScript"] },
